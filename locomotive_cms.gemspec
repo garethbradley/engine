@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'will_paginate', '~> 3.0.2'
 
   s.add_dependency 'haml', '3.1.2'
-  s.add_dependency 'sass', '3.1.2'
+  s.add_dependency 'sass', '3.1.10'
   s.add_dependency 'locomotive_liquid', '2.2.2'
   s.add_dependency 'formtastic', '~> 1.2.3'
   s.add_dependency 'inherited_resources', '~> 1.3.0'
