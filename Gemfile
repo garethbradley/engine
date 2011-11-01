@@ -12,7 +12,7 @@ gem 'cancan',               '~> 1.6.7'
 gem 'bson',                 '~> 1.3.1'
 gem 'mongo',                '~> 1.3.1'
 gem 'bson_ext',             '~> 1.3.1'
-gem 'mongoid',              '~> 2.3.3'
+gem 'mongoid',              '~> 2.3.2'
 gem 'locomotive_mongoid_acts_as_tree', '0.1.5.7', :require => 'mongoid_acts_as_tree', :path => '../gems/acts_as_tree' # TODO: REPLACE IT
 gem 'custom_fields',        '~> 1.1.0.rc1', :path => '../gems/custom_fields'
 gem 'will_paginate',        '~> 3.0.2'
